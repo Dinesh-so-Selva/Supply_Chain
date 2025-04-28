@@ -1,0 +1,7 @@
+Stock_Availability,Delivery_Status,Order_Count
+No,Cancelled,1711
+Yes,On-Time,1645
+No,Delayed,1664
+No,On-Time,1639
+Yes,Delayed,1631
+Yes,Cancelled,1710
